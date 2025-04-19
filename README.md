@@ -11,17 +11,12 @@ problem-solving skills and to use that knowledge to keep my mind sharp.
 🔭 I’m currently working through a full-stack engineer course at Codecademy and the GitHub Skills excercises.
 
 ---
-🌱 I’m currently learning:
-- HTML
-- CSS
-- JavaScript
-- GitHub operations
-
----
 🛠 My current toolset:
 -  C/C++, C#
 -  HTML, CSS, JavaScript
--  GitHub
+-  GitHub operations
+-  Markdown
+-  a11y and ARIA
 
 ---
 🧭 I'm looking forward to:
