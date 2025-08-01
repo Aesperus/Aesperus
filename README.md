@@ -17,6 +17,7 @@ problem-solving skills and to use that knowledge to keep my mind sharp.
 -  GitHub operations
 -  Markdown
 -  a11y and ARIA
+-  PERN - PostgreSQL, Express.js, React, Node
 
 ---
 🧭 I'm looking forward to:
