@@ -8,7 +8,7 @@ To that end, regardless of career path, my goal is to train, practice and improv
 problem-solving skills and to use that knowledge to keep my mind sharp.
 
 ---
-🔭 I’m currently working through a full-stack engineer course at Codecademy and the GitHub Skills excercises.
+🔭 I’m currently working on refreshing my coding skills and expanding them into Full-Stack Development (The Odin Project). I am looking to expand even further into Cybersecurity in the future.
 
 ---
 🛠 My current toolset:
@@ -24,3 +24,4 @@ problem-solving skills and to use that knowledge to keep my mind sharp.
 - expanding my knowledge about full-stack development into other languages and technologies
 - getting back into the flow of C/C++/C# development
 - getting into the habit of practicing my skills via Leetcode or similar platforms
+- getting into Cybersecurity
