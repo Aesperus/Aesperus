@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Plamen and I use the nickname Aesperus. I am looking to get back to the world of programming after a long absence.
+I use the nickname Aesperus. I am looking to get back to the world of programming after a long absence.
 
 ---
 🌐 I believe that any form of programming skill is invaluable in the modern world. 
